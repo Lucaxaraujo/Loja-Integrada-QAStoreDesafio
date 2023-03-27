@@ -18,7 +18,6 @@ Repositório contendo automações em Cypress de alguns cenários de testes do d
    npm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Como utilizar
@@ -40,7 +39,6 @@ Repositório contendo automações em Cypress de alguns cenários de testes do d
 5. Na janela que será aberta, na listagem das specs, selecione qual cenário automatizado deseja executar e aguarde o teste iniciar automaticamente :)   
  <img src="images/3-dashboard%20specs.png" alt="setup-choose-spec">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TECH -->
 ### Tecnologias utilizadas
@@ -48,8 +46,6 @@ Repositório contendo automações em Cypress de alguns cenários de testes do d
 * [![Cypress][Cypress]][Cypress-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![Mocha][Mocha]][Mocha-url]
-
-<p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

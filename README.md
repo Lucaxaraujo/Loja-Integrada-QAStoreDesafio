@@ -5,7 +5,7 @@ Repositório contendo automações em Cypress de alguns cenários de testes do d
 
 ### Pré-requisitos
 
-É necessário que a máquina possua as ferramentas NodeJS + NPM instalados para rodar o projeto.
+É necessário que a máquina possua as ferramentas NodeJS + NPM instaladas para rodar o projeto.
 
 ### Instalação 
 

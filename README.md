@@ -1,2 +1,2 @@
 # Loja-Integrada-QAStoreDesafio
-Repositório contendo a automação de cenários do desafio técnico de QA para a Loja Integrada
+Repositório contendo automações em Cypress de alguns cenários de testes do desafio técnico para a vaga de QA da Loja Integrada
